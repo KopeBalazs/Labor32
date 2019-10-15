@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Labor3.2</string>
+    <string name="titleTxt">Add a new Hobby</string>
+    <string name="hobbyInputTxt">Your new hobby</string>
+    <string name="addHobbyBtnTxt">ADD HOBBY</string>
+    <string name="viewHobbyBtnTxt">VIEW HOBBIES</string>
+    <string name="myHobbiesTxt">My hobbies</string>
+</resources>
